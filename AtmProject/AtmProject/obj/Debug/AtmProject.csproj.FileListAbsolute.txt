@@ -1,0 +1,135 @@
+C:\Users\James\source\repos\AtmProject\AtmProject\obj\Debug\AtmProject.csproj.AssemblyReference.cache
+C:\Users\James\source\repos\AtmProject\AtmProject\obj\Debug\MainWindow.g.cs
+C:\Users\James\source\repos\AtmProject\AtmProject\obj\Debug\App.g.cs
+C:\Users\James\source\repos\AtmProject\AtmProject\obj\Debug\AtmProject_MarkupCompile.cache
+C:\Users\James\source\repos\AtmProject\AtmProject\obj\Debug\AtmProject_MarkupCompile.lref
+C:\Users\James\source\repos\AtmProject\AtmProject\bin\Debug\AtmProject.exe.config
+C:\Users\James\source\repos\AtmProject\AtmProject\bin\Debug\AtmProject.exe
+C:\Users\James\source\repos\AtmProject\AtmProject\bin\Debug\AtmProject.pdb
+C:\Users\James\source\repos\AtmProject\AtmProject\obj\Debug\MainWindow.baml
+C:\Users\James\source\repos\AtmProject\AtmProject\obj\Debug\AtmProject.g.resources
+C:\Users\James\source\repos\AtmProject\AtmProject\obj\Debug\AtmProject.Properties.Resources.resources
+C:\Users\James\source\repos\AtmProject\AtmProject\obj\Debug\AtmProject.csproj.GenerateResource.cache
+C:\Users\James\source\repos\AtmProject\AtmProject\obj\Debug\AtmProject.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\AtmProject\AtmProject\obj\Debug\AtmProject.exe
+C:\Users\James\source\repos\AtmProject\AtmProject\obj\Debug\AtmProject.pdb
+C:\Users\james\Desktop\repos\AtmProject\AtmProject\bin\Debug\AtmProject.exe.config
+C:\Users\james\Desktop\repos\AtmProject\AtmProject\bin\Debug\AtmProject.exe
+C:\Users\james\Desktop\repos\AtmProject\AtmProject\bin\Debug\AtmProject.pdb
+C:\Users\james\Desktop\repos\AtmProject\AtmProject\obj\Debug\AtmProject.csproj.AssemblyReference.cache
+C:\Users\james\Desktop\repos\AtmProject\AtmProject\obj\Debug\MainWindow.g.cs
+C:\Users\james\Desktop\repos\AtmProject\AtmProject\obj\Debug\App.g.cs
+C:\Users\james\Desktop\repos\AtmProject\AtmProject\obj\Debug\AtmProject_MarkupCompile.cache
+C:\Users\james\Desktop\repos\AtmProject\AtmProject\obj\Debug\AtmProject_MarkupCompile.lref
+C:\Users\james\Desktop\repos\AtmProject\AtmProject\obj\Debug\MainWindow.baml
+C:\Users\james\Desktop\repos\AtmProject\AtmProject\obj\Debug\AtmProject.g.resources
+C:\Users\james\Desktop\repos\AtmProject\AtmProject\obj\Debug\AtmProject.Properties.Resources.resources
+C:\Users\james\Desktop\repos\AtmProject\AtmProject\obj\Debug\AtmProject.csproj.GenerateResource.cache
+C:\Users\james\Desktop\repos\AtmProject\AtmProject\obj\Debug\AtmProject.csproj.CoreCompileInputs.cache
+C:\Users\james\Desktop\repos\AtmProject\AtmProject\obj\Debug\AtmProject.exe
+C:\Users\james\Desktop\repos\AtmProject\AtmProject\obj\Debug\AtmProject.pdb
+C:\Users\james\Desktop\repos\AtmProject\AtmProject\obj\Debug\userDashboard.g.cs
+C:\Users\james\Desktop\repos\AtmProject\AtmProject\obj\Debug\userDashboard.baml
+C:\Users\james\Desktop\repos\AtmProject\AtmProject\obj\Debug\depositWindow.g.cs
+C:\Users\james\Desktop\repos\AtmProject\AtmProject\obj\Debug\depositWindow.baml
+C:\Users\james\OneDrive\Desktop\repos\AtmProject\AtmProject\bin\Debug\AtmProject.exe.config
+C:\Users\james\OneDrive\Desktop\repos\AtmProject\AtmProject\bin\Debug\AtmProject.exe
+C:\Users\james\OneDrive\Desktop\repos\AtmProject\AtmProject\bin\Debug\AtmProject.pdb
+C:\Users\james\OneDrive\Desktop\repos\AtmProject\AtmProject\obj\Debug\AtmProject.csproj.AssemblyReference.cache
+C:\Users\james\OneDrive\Desktop\repos\AtmProject\AtmProject\obj\Debug\MainWindow.g.cs
+C:\Users\james\OneDrive\Desktop\repos\AtmProject\AtmProject\obj\Debug\userDashboard.g.cs
+C:\Users\james\OneDrive\Desktop\repos\AtmProject\AtmProject\obj\Debug\App.g.cs
+C:\Users\james\OneDrive\Desktop\repos\AtmProject\AtmProject\obj\Debug\AtmProject_MarkupCompile.cache
+C:\Users\james\OneDrive\Desktop\repos\AtmProject\AtmProject\obj\Debug\AtmProject_MarkupCompile.lref
+C:\Users\james\OneDrive\Desktop\repos\AtmProject\AtmProject\obj\Debug\MainWindow.baml
+C:\Users\james\OneDrive\Desktop\repos\AtmProject\AtmProject\obj\Debug\userDashboard.baml
+C:\Users\james\OneDrive\Desktop\repos\AtmProject\AtmProject\obj\Debug\AtmProject.g.resources
+C:\Users\james\OneDrive\Desktop\repos\AtmProject\AtmProject\obj\Debug\AtmProject.Properties.Resources.resources
+C:\Users\james\OneDrive\Desktop\repos\AtmProject\AtmProject\obj\Debug\AtmProject.csproj.GenerateResource.cache
+C:\Users\james\OneDrive\Desktop\repos\AtmProject\AtmProject\obj\Debug\AtmProject.csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive\Desktop\repos\AtmProject\AtmProject\obj\Debug\AtmProject.exe
+C:\Users\james\OneDrive\Desktop\repos\AtmProject\AtmProject\obj\Debug\AtmProject.pdb
+C:\Users\james\OneDrive\Desktop\repos\AtmProject\AtmProject\obj\Debug\transferWindow.g.cs
+C:\Users\james\OneDrive\Desktop\repos\AtmProject\AtmProject\obj\Debug\transferWindow.baml
+C:\Users\james\OneDrive\Desktop\repos\AtmProject\AtmProject\obj\Debug\withdrawPage.g.cs
+C:\Users\james\OneDrive\Desktop\repos\AtmProject\AtmProject\obj\Debug\withdrawPage.baml
+C:\Users\james\OneDrive\Desktop\repos\AtmProject\AtmProject\obj\Debug\depositPage.g.cs
+C:\Users\james\OneDrive\Desktop\repos\AtmProject\AtmProject\obj\Debug\depositPage.baml
+C:\Users\james\Desktop\AtmProject\AtmProject\bin\Debug\AtmProject.exe.config
+C:\Users\james\Desktop\AtmProject\AtmProject\bin\Debug\AtmProject.exe
+C:\Users\james\Desktop\AtmProject\AtmProject\bin\Debug\AtmProject.pdb
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\AtmProject.csproj.AssemblyReference.cache
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\depositPage.g.cs
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\transferWindow.g.cs
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\MainWindow.g.cs
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\userDashboard.g.cs
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\withdrawPage.g.cs
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\App.g.cs
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\AtmProject_MarkupCompile.cache
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\AtmProject_MarkupCompile.lref
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\depositPage.baml
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\transferWindow.baml
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\MainWindow.baml
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\userDashboard.baml
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\withdrawPage.baml
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\AtmProject.g.resources
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\AtmProject.Properties.Resources.resources
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\AtmProject.csproj.GenerateResource.cache
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\AtmProject.csproj.CoreCompileInputs.cache
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\AtmProject.exe
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\AtmProject.pdb
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\accountBalance.g.cs
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\accountBalance.baml
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\alltransactions.g.cs
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\alltransactions.baml
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\paymentPage.g.cs
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\paymentPage.baml
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\adminDashboard.g.cs
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\adminDashboard.baml
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\addUserWindow.g.cs
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\addUserWindow.baml
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\createAccount.g.cs
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\createAccount.baml
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\transactionHistory.g.cs
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\transactionHistory.baml
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\closeAtm.g.cs
+C:\Users\james\Desktop\AtmProject\AtmProject\obj\Debug\closeAtm.baml
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\bin\Debug\AtmProject.exe.config
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\bin\Debug\AtmProject.exe
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\bin\Debug\AtmProject.pdb
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\AtmProject.csproj.AssemblyReference.cache
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\accountBalance.g.cs
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\addUserWindow.g.cs
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\adminDashboard.g.cs
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\alltransactions.g.cs
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\closeAtm.g.cs
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\createAccount.g.cs
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\depositPage.g.cs
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\paymentPage.g.cs
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\transactionHistory.g.cs
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\transferWindow.g.cs
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\MainWindow.g.cs
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\userDashboard.g.cs
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\withdrawPage.g.cs
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\App.g.cs
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\AtmProject_MarkupCompile.cache
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\AtmProject_MarkupCompile.lref
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\accountBalance.baml
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\addUserWindow.baml
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\adminDashboard.baml
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\alltransactions.baml
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\closeAtm.baml
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\createAccount.baml
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\depositPage.baml
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\paymentPage.baml
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\transactionHistory.baml
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\transferWindow.baml
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\MainWindow.baml
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\userDashboard.baml
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\withdrawPage.baml
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\AtmProject.g.resources
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\AtmProject.Properties.Resources.resources
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\AtmProject.csproj.GenerateResource.cache
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\AtmProject.csproj.CoreCompileInputs.cache
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\AtmProject.exe
+C:\Users\james\Desktop\fonctional projects\ATM finish\AtmProject\AtmProject\obj\Debug\AtmProject.pdb

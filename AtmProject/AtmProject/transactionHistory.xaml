@@ -1,0 +1,24 @@
+﻿<Window x:Name="transactionHistory1" x:Class="AtmProject.transactionHistory"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AtmProject"
+        mc:Ignorable="d"
+        Title="transactionHistory" Height="450" Width="800" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FFFDFDFD"/>
+            <GradientStop Color="#FF5394D6" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid>
+        <Label x:Name="withdrawLbl" Content="Transaction history" HorizontalAlignment="Center" Height="78" VerticalAlignment="Top" Width="512" FontSize="55" FontFamily="Segoe UI Variable Text Semibold" Margin="0,7,0,0"/>
+        <DataGrid x:Name="dataGrid" HorizontalAlignment="Center" Height="269" Margin="0,157,0,0" VerticalAlignment="Top" Width="752"/>
+        <Label x:Name="label" Content="Search transaction by id : " HorizontalAlignment="Left" Height="31" Margin="38,93,0,0" VerticalAlignment="Top" Width="190" FontSize="15" FontWeight="Bold"/>
+        <TextBox x:Name="searchIdTextBox" HorizontalAlignment="Left" Height="31" Margin="233,93,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="238" FontSize="20"/>
+        <Button x:Name="transactionSearchBtn" Content="Search" HorizontalAlignment="Left" Height="31" Margin="498,93,0,0" VerticalAlignment="Top" Width="86" FontSize="15" FontStyle="Italic" Background="#FF87DAA6" FontWeight="Bold" Click="transactionSearchBtn_Click"/>
+        <Button x:Name="backBtn" Content="Back" HorizontalAlignment="Left" Height="31" Margin="620,93,0,0" VerticalAlignment="Top" Width="86" FontSize="15" FontStyle="Italic" Background="#FF87DAA6" FontWeight="Bold" Click="backBtn_Click"/>
+
+    </Grid>
+</Window>
